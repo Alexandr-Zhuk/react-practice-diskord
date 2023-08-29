@@ -1,0 +1,15 @@
+.translation{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    color: black;
+}
+
+.translation img{
+    display: block;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}

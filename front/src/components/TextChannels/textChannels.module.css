@@ -1,0 +1,15 @@
+.text_channels{
+    
+}
+
+.channels_list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+h3{
+    font-size: 12px;
+    margin: 16px 0 10px 10px;
+    text-transform: uppercase;
+}

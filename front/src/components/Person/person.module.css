@@ -1,0 +1,24 @@
+.person{
+    display: flex;
+    align-items: center;
+    margin: 0 10px 0 35px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.person:hover{
+    cursor: pointer;
+    background-color: #3f4248;
+    color: #ffffff;
+}
+
+.avatar img{
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: block;
+}
+
+.person_name{
+    padding-left: 10px;
+}

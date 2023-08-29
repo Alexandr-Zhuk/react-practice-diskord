@@ -1,0 +1,8 @@
+.main_content{
+    padding: 40px 30px 40px 280px;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-template-rows: 200px 200px 200px;
+    gap: 10px;
+}

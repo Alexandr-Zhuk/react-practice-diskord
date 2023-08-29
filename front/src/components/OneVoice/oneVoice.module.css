@@ -1,0 +1,22 @@
+.one_voice{
+    font-family: Noto Sans;
+}
+
+.voice_name{
+    display: flex;
+    align-items: center;
+    padding: 10px 10px 10px 5px;
+    border-radius: 5px;
+    margin: 0 10px;
+    font-weight: 600;
+}
+
+.voice_name:hover{
+    cursor: pointer;
+    background-color: #3f4248;
+    color: #ffffff;
+}
+
+.voice_text{
+    padding-left: 5px;
+}

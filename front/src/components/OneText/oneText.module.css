@@ -1,0 +1,20 @@
+.one_text{
+    display: flex;
+    align-items: center;
+    text-transform: none;
+    margin: 0 10px;
+    padding: 5px;
+    font-family: Noto Sans;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.one_text:hover{
+    cursor: pointer;
+    background-color: #3f4248;
+    color: #ffffff;
+}
+
+.channel_name{
+    padding-left: 10px;
+}
